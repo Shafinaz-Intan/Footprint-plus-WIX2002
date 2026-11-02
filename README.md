@@ -7,7 +7,7 @@ Footprint+: a UM campus walking app that tracks walking trips, estimates CO₂ s
 | Project manager | Shafinaz Binti Shamsul|
 | Research & requirements | Zhao Shuangyu |
 | UI/UX | Selva Kumari A/P Vasudevan|
-| Front-end | Ali Naif |
+| Front-end | Ali Jiawi |
 | Back-end | Darwish Bin Ahmad Shahreeza |
 | AI developers | Mohammad Aiman & Ryan Shaquille |
 | QA & report lead | Hasanul Banna |
